@@ -63,6 +63,11 @@
    ]
    ```
 
+5. Замените примеры файлов на ваши:
+   - Политика конфиденциальности.pdf
+   - Согласие на обработку персональных данных.pdf
+   - donateqr.jpg
+
 ## Запуск
 
 **Основной бот:**
@@ -99,7 +104,7 @@ python feedbackbot.py
                     ▼            ▼            ▼
               ┌──────────┐ ┌──────────┐ ┌──────────┐
               │ SQLite   │ │ AI       │ │ Telegram │
-              │ (согласия)│ │ Webhook  │ │ Payments │
+              │(согласия)│ │ Webhook  │ │ Payments │
               └──────────┘ └──────────┘ └──────────┘
 ```
 
@@ -122,7 +127,7 @@ python feedbackbot.py
 ## Ссылки
 
 - Telegram-канал: [@RabbitZnaika](https://t.me/RabbitZnaika)
-- Бот обратной связи: [@ZnaikaFeedbackBot](https://t.me/ZnaikaFeedbackBot)
+- Бот обратной связи (не работает): [@ZnaikaFeedbackBot](https://t.me/ZnaikaFeedbackBot)
 
 ## Лицензия
 
