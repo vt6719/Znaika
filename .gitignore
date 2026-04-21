@@ -1,0 +1,27 @@
+# Environment
+.env
+
+# Claude Code
+.claude/
+
+# Database
+*.db
+
+# Logs
+logs.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
